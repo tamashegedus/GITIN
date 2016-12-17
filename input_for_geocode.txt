@@ -1,0 +1,537 @@
+
+Budapest 1038 Budapest Botond utca 44
+Budapest 1038 Budapest Botond utca 52
+Budapest 1038 Budapest Botond utca 62
+Budapest 1038 Budapest Botond utca 76
+Budapest 1038 Budapest Botond utca 84
+Budapest 1039 Budapest Budakalász utca 1
+Budapest 1033 Budapest Búvár utca 1
+Budapest 1033 Budapest Búza utca 6
+Budapest 1033 Budapest Búza utca 16
+Budapest 1033 Budapest Búza utca 26
+Budapest 1033 Budapest Búza utca 32
+Budapest 1037 Budapest Citromfû utca 14
+Budapest 1039 Budapest Czetz János köz 6
+Budapest 1039 Budapest Czetz János utca 4
+Budapest 1039 Budapest Czetz János utca 11
+Budapest 1039 Budapest Czetz János utca 18
+Budapest 1039 Budapest Czetz János utca 27
+Budapest 1039 Budapest Czetz János utca 32
+Budapest 1039 Budapest Czetz János utca 43
+Budapest 1039 Budapest Czetz János utca 49
+Budapest 1039 Budapest Czetz János utca 57
+Budapest 1039 Budapest Czetz János utca 67
+Budapest 1039 Budapest Czetz János utca 73
+Budapest 1039 Budapest Czetz János utca 80
+Budapest 1039 Budapest Czetz János utca 92
+Budapest 1039 Budapest Czuczor utca 6
+Budapest 1039 Budapest Czuczor utca 11
+Budapest 1039 Budapest Csaba utca 5
+Budapest 1039 Budapest Csaba utca 10
+Budapest 1039 Budapest Csaba utca 19
+Budapest 1039 Budapest Csaba utca 31
+Budapest 1039 Budapest Csaba utca 37
+Budapest 1039 Budapest Család utca 5
+Budapest 1039 Budapest Család utca 10
+Budapest 1039 Budapest Család utca 16
+Budapest 1039 Budapest Család utca 22
+Budapest 1039 Budapest Család utca 29
+Budapest 1039 Budapest Család utca 34
+Budapest 1039 Budapest Család utca 39
+Budapest 1039 Budapest Család utca 45
+Budapest 1031 Budapest Csalma utca 3
+Budapest 1031 Budapest Csalma utca 9
+Budapest 1037 Budapest Csatárka út 4
+Budapest 1036 Budapest Csemete utca 10
+Budapest 1037 Budapest Csengõbojt utca 2
+Budapest 1033 Budapest Cserepes utca 5
+Budapest 1033 Budapest Cserepes utca 15
+Budapest 1038 Budapest Csermák Antal utca 4
+Budapest 1038 Budapest Csermák Antal utca 17
+Budapest 1038 Budapest Csermák Antal utca 24
+Budapest 1038 Budapest Csermák Antal utca 30
+Budapest 1038 Budapest Csermák Antal utca 42
+Budapest 1038 Budapest Csermák Antal utca 52
+Budapest 1038 Budapest Csermák Antal utca 66
+Budapest 1038 Budapest Csermák Antal utca 78
+Budapest 1038 Budapest Csermák Antal utca 88
+Budapest 1037 Budapest Csermely köz 4
+Budapest 1031 Budapest Cserszömörce utca 13
+Budapest 1031 Budapest Cserszömörce utca 22757
+Budapest 1031 Budapest Csikóvár utca 5
+Budapest 1031 Budapest Csikóvár utca 11
+Budapest 1031 Budapest Csikóvár utca 17
+Budapest 1031 Budapest Csikóvár utca 22815
+Budapest 1037 Budapest Csillaghegyi út 7
+Budapest 1037 Budapest Csillaghegyi út 19880
+Budapest 1037 Budapest Csillagszem utca 8
+Budapest 1037 Budapest Csillagszem utca 13
+Budapest 1037 Budapest Csillagszem utca 19
+Budapest 1039 Budapest Csobánka tér 2
+Budapest 1031 Budapest Csónakház utca 3
+Budapest 1031 Budapest Csónakház utca 8
+Budapest 1038 Budapest Csörlõ köz 1
+Budapest 1038 Budapest Csörlõ utca 3
+Budapest 1038 Budapest Csörlõ utca 8
+Budapest 1038 Budapest Csörlõ utca 14
+Budapest 1037 Budapest Csúcshegyi út 20643
+Budapest 1039 Budapest Deák utca 4
+Budapest 1039 Budapest Deák utca 9
+Budapest 1036 Budapest Dereglye utca 3
+Budapest 1036 Budapest Dereglye utca 6
+Budapest 1035 Budapest Derû utca 4
+Budapest 1034 Budapest Dévai Bíró Mátyás tér 24
+Budapest 1031 Budapest Dinamó utca 7
+Budapest 1038 Budapest Diófa utca 3
+Budapest 1038 Budapest Diófa utca 8
+Budapest 1038 Budapest Diófa utca 20
+Budapest 1037 Budapest Doberdó út 36
+Budapest 1031 Budapest Dobogókõ utca 8
+Budapest 1038 Budapest Doboz utca 2
+Budapest 1039 Budapest Domján Edit utca 4
+Budapest 1039 Budapest Domján Edit utca 9
+Budapest 1037 Budapest Domoszló köz 4
+Budapest 1037 Budapest Domoszló köz 11
+Budapest 1037 Budapest Domoszló köz 19
+Budapest 1037 Budapest Domoszló lejtõ 4
+Budapest 1037 Budapest Domoszló útja 5
+Budapest 1037 Budapest Domoszló útja 11
+Budapest 1037 Budapest Domoszló útja 16
+Budapest 1037 Budapest Domoszló útja 21
+Budapest 1037 Budapest Domoszló útja 27
+Budapest 1037 Budapest Domoszló útja 32
+Budapest 1037 Budapest Domoszló útja 37
+Budapest 1037 Budapest Domoszló útja 43
+Budapest 1037 Budapest Domoszló útja 50
+Budapest 1037 Budapest Domoszló útja 58
+Budapest 1037 Budapest Domoszló útja 63
+Budapest 1037 Budapest Domoszló útja 70
+Budapest 1037 Budapest Domoszló útja 87
+Budapest 1038 Budapest Donát utca 3
+Budapest 1038 Budapest Donát utca 8
+Budapest 1038 Budapest Donát utca 13
+Budapest 1038 Budapest Donát utca 19
+Budapest 1038 Budapest Donát utca 27
+Budapest 1038 Budapest Donát utca 32
+Budapest 1038 Budapest Donát utca 40
+Budapest 1038 Budapest Donát utca 48
+Budapest 1031 Budapest Dósa utca 5
+Budapest 1031 Budapest Dósa utca 15
+Budapest 1031 Budapest Dósa utca 27
+Budapest 1038 Budapest Dózsa György utca 5
+Budapest 1038 Budapest Dózsa György utca 13
+Budapest 1038 Budapest Dózsa György utca 21
+Budapest 1038 Budapest Dózsa György utca 27
+Budapest 1038 Budapest Dózsa György utca 33
+Budapest 1038 Budapest Dózsa György utca 39
+Budapest 1038 Budapest Dózsa György utca 45
+Budapest 1038 Budapest Dózsa György utca 55
+Budapest 1038 Budapest Dózsa György utca 63
+Budapest 1031 Budapest Drótos utca 5
+Budapest 1038 Budapest Dûne utca 5
+Budapest 1038 Budapest Dûne utca 17
+Budapest 1038 Budapest Éden utca 8
+Budapest 1039 Budapest Édes utca 5
+Budapest 1038 Budapest Égetõ utca 7
+Budapest 1038 Budapest Égetõ utca 15
+Budapest 1038 Budapest Ékszer utca 4
+Budapest 1031 Budapest Emõd utca 12
+Budapest 1031 Budapest Emõd utca 18
+Budapest 1031 Budapest Emõd utca 23
+Budapest 1031 Budapest Emõd utca 30
+Budapest 1031 Budapest Emõd utca 44
+Budapest 1031 Budapest Emõd utca 54
+Budapest 1038 Budapest Eperfa utca 8
+Budapest 1037 Budapest Ér utca 4
+Budapest 1032 Budapest Érc utca 2
+Budapest 1037 Budapest Erdõalja köz 6
+Budapest 1037 Budapest Erdõalja köz 20467
+Budapest 1037 Budapest Erdõalja lejtõ 6
+Budapest 1037 Budapest Erdõalja lejtõ 11
+Budapest 1037 Budapest Erdõalja lejtõ 15
+Budapest 1037 Budapest Erdõalja út 4
+Budapest 1037 Budapest Erdõalja út 9
+Budapest 1037 Budapest Erdõalja út 15
+Budapest 1037 Budapest Erdõalja út 21
+Budapest 1037 Budapest Erdõalja út 27
+Budapest 1037 Budapest Erdõalja út 36
+Budapest 1037 Budapest Erdõalja út 46
+Budapest 1037 Budapest Erdõalja út 54
+Budapest 1037 Budapest Erdõalja út 65
+Budapest 1037 Budapest Erdõalja út 72
+Budapest 1037 Budapest Erdõalja út 78
+Budapest 1037 Budapest Erdõalja út 84
+Budapest 1037 Budapest Erdõalja út 93
+Budapest 1037 Budapest Erdõalja út 99
+Budapest 1037 Budapest Erdõalja út 105
+Budapest 1037 Budapest Erdõalja út 110
+Budapest 1037 Budapest Erdõalja út 117
+Budapest 1037 Budapest Erdõalja út 123
+Budapest 1037 Budapest Erdõalja út 128
+Budapest 1037 Budapest Erdõalja út 135
+Budapest 1037 Budapest Erdõalja út 141
+Budapest 1037 Budapest Erdõalja út 148
+Budapest 1037 Budapest Erdõalja út 153
+Budapest 1037 Budapest Erdõalja út 160
+Budapest 1037 Budapest Erdõalja út 165
+Budapest 1037 Budapest Erdõalja út 170
+Budapest 1037 Budapest Erdõalja út 176
+Budapest 1037 Budapest Erdõalja út 182
+Budapest 1037 Budapest Erdõhát út 5
+Budapest 1037 Budapest Erdõhát út 16486
+Budapest 1037 Budapest Erdõszél köz 6
+Budapest 1037 Budapest Erdõszél köz 11
+Budapest 1037 Budapest Erdõszél köz 17
+Budapest 1037 Budapest Erdõszél köz 24
+Budapest 1037 Budapest Erdõszél köz 34
+Budapest 1037 Budapest Erdõszél köz 48
+Budapest 1037 Budapest Erdõszél köz 54
+Budapest 1037 Budapest Erdõszél utca 4
+Budapest 1037 Budapest Erdõszél utca 11
+Budapest 1034 Budapest Esõ utca 4
+Budapest 1037 Budapest Esti Kornél utca 6
+Budapest 1038 Budapest Észak utca 6
+Budapest 1038 Budapest Észak utca 11
+Budapest 1038 Budapest Észak utca 16
+Budapest 1038 Budapest Észak utca 22
+Budapest 1038 Budapest Észak utca 28
+Budapest 1038 Budapest Észak utca 34
+Budapest 1038 Budapest Észak utca 39
+Budapest 1036 Budapest Evezõ utca 4
+Budapest 1038 Budapest Ezüsthegy utca 8
+Budapest 1038 Budapest Ezüsthegy utca 22
+Budapest 1038 Budapest Ezüsthegy utca 32
+Budapest 1038 Budapest Ezüsthegy utca 46
+Budapest 1038 Budapest Ezüsthegy utca 60
+Budapest 1038 Budapest Ezüsthegy utca 80
+Budapest 1038 Budapest Ezüsthegyi lejtõ 7
+Budapest 1038 Budapest Ezüstkõ utca 8
+Budapest 1038 Budapest Ezüstkõ utca 13
+Budapest 1037 Budapest Fanyarka utca 1
+Budapest 1037 Budapest Farkastorki köz 4
+Budapest 1037 Budapest Farkastorki köz 8
+Budapest 1037 Budapest Farkastorki lejtõ 4
+Budapest 1037 Budapest Farkastorki lejtõ 14
+Budapest 1037 Budapest Farkastorki lejtõ 20
+Budapest 1037 Budapest Farkastorki lejtõ 25
+Budapest 1037 Budapest Farkastorki lejtõ 30
+Budapest 1037 Budapest Farkastorki lejtõ 38
+Budapest 1037 Budapest Farkastorki lejtõ 45
+Budapest 1037 Budapest Farkastorki lejtõ 16866
+Budapest 1037 Budapest Farkastorki út 15
+Budapest 1037 Budapest Farkastorki út 21
+Budapest 1037 Budapest Farkastorki út 26
+Budapest 1037 Budapest Farkastorki út 34
+Budapest 1037 Budapest Farkastorki út 40
+Budapest 1037 Budapest Fehéregyházi út 11
+Budapest 1037 Budapest Fehéregyházi út 31
+Budapest 1037 Budapest Fehérítõ utca 12
+Budapest 1036 Budapest Fényes Adolf utca 3
+Budapest 1037 Budapest Fergeteg utca 9
+Budapest 1039 Budapest Fésûs utca 5
+Budapest 1039 Budapest Fésûs utca 16
+Budapest 1039 Budapest Fésûs utca 22
+Budapest 1037 Budapest Filatori dûlõ 18820
+Budapest 1037 Budapest Flóra utca 3
+Budapest 1037 Budapest Flóra utca 8
+Budapest 1037 Budapest Flóra utca 16
+Budapest 1033 Budapest Flórián tér 3
+Budapest 1039 Budapest Fodros köz 3
+Budapest 1039 Budapest Fodros utca 4
+Budapest 1039 Budapest Fodros utca 12
+Budapest 1039 Budapest Fodros utca 20
+Budapest 1039 Budapest Fodros utca 27
+Budapest 1039 Budapest Fodros utca 37
+Budapest 1039 Budapest Fodros utca 49
+Budapest 1039 Budapest Fodros utca 60
+Budapest 1039 Budapest Fodros utca 66
+Budapest 1033 Budapest Folyamõr utca 6
+Budapest 1037 Budapest Folyóka utca 3
+Budapest 1037 Budapest Folyóka utca 8
+Budapest 1037 Budapest Folyóka utca 13
+Budapest 1037 Budapest Folyóka utca 20
+Budapest 1037 Budapest Folyóka utca 28
+Budapest 1037 Budapest Folyondár köz 6
+Budapest 1037 Budapest Folyondár utca 7
+Budapest 1037 Budapest Folyondár utca 13
+Budapest 1037 Budapest Folyondár utca 26
+Budapest 1037 Budapest Folyondár utca 32
+Budapest 1037 Budapest Forduló köz 2
+Budapest 1037 Budapest Forduló utca 6
+Budapest 1037 Budapest Forduló utca 13
+Budapest 1037 Budapest Forduló utca 19
+Budapest 1037 Budapest Forrás utca 3
+Budapest 1038 Budapest Forrásliget utca 5
+Budapest 1033 Budapest Fõ tér 4
+Budapest 1032 Budapest Föld utca 51
+Budapest 1032 Budapest Föld utca 56
+Budapest 1032 Budapest Föld utca 65
+Budapest 1032 Budapest Föld utca 71
+Budapest 1039 Budapest Frigyes utca 4
+Budapest 1039 Budapest Frigyes utca 9
+Budapest 1038 Budapest Fürdõ utca 6
+Budapest 1039 Budapest Füst Milán utca 3
+Budapest 1039 Budapest Füst Milán utca 12
+Budapest 1036 Budapest Galagonya utca 4
+Budapest 1039 Budapest Garay utca 4
+Budapest 1039 Budapest Garay utca 12
+Budapest 1039 Budapest Gazella utca 7
+Budapest 1039 Budapest Gazella utca 12
+Budapest 1031 Budapest Gázgyár utca 1
+Budapest 1031 Budapest Gázgyári lakótelep 2
+Budapest 1031 Budapest Gázgyári lakótelep 7
+Budapest 1031 Budapest Gázgyári lakótelep 12
+Budapest 1037 Budapest Gémeskút utca 11
+Budapest 1038 Budapest Géza utca 4
+Budapest 1031 Budapest Gladiátor utca 9
+Budapest 1031 Budapest Gladiátor utca 22
+Budapest 1031 Budapest Gladiátor utca 33
+Budapest 1037 Budapest Góbé utca 12
+Budapest 1037 Budapest Góbé utca 17
+Budapest 1037 Budapest Góbé utca 22
+Budapest 1037 Budapest Gölöncsér utca 41
+Budapest 1037 Budapest Gölöncsér utca 122
+Budapest 1031 Budapest Gúla utca 8
+Budapest 1031 Budapest Gúla utca 26
+Budapest 1031 Budapest Gúla utca 44
+Budapest 1031 Budapest Gúla utca 22609
+Budapest 1039 Budapest Gulácsy Lajos utca 3
+Budapest 1039 Budapest Gulácsy Lajos utca 8
+Budapest 1039 Budapest Gulácsy Lajos utca 12
+Budapest 1038 Budapest Gyanta utca 3
+Budapest 1038 Budapest Gyanta utca 8
+Budapest 1032 Budapest Gyenes utca 5
+Budapest 1032 Budapest Gyenes utca 14
+Budapest 1038 Budapest Gyepes utca 3
+Budapest 1038 Budapest Gyepes utca 9
+Budapest 1038 Budapest Gyepes utca 17
+Budapest 1038 Budapest Gyepes utca 22
+Budapest 1038 Budapest Gyepes utca 27
+Budapest 1037 Budapest Gyík utca 3
+Budapest 1037 Budapest Gyógyszergyár utca 5
+Budapest 1037 Budapest Gyógyszergyár utca 10
+Budapest 1037 Budapest Gyógyszergyár utca 17
+Budapest 1037 Budapest Gyógyszergyár utca 28
+Budapest 1037 Budapest Gyógyszergyár utca 36
+Budapest 1037 Budapest Gyógyszergyár utca 46
+Budapest 1037 Budapest Gyógyszergyár utca 53
+Budapest 1037 Budapest Gyógyszergyár utca 58
+Budapest 1037 Budapest Gyógyszergyár utca 63
+Budapest 1038 Budapest Gyöngyvirág utca 4
+Budapest 1038 Budapest Gyöngyvirág utca 12
+Budapest 1038 Budapest Gyöngyvirág utca 27
+Budapest 1038 Budapest Gyöngyvirág utca 34
+Budapest 1038 Budapest Gyöngyvirág utca 41
+Budapest 1038 Budapest Gyöngyvirág utca 55
+Budapest 1039 Budapest Gyula utca 4
+Budapest 1039 Budapest Gyula utca 11
+Budapest 1039 Budapest Gyula utca 18
+Budapest 1039 Budapest Gyula utca 24
+Budapest 1039 Budapest Gyula utca 33
+Budapest 1039 Budapest Gyula utca 38
+Budapest 1039 Budapest Gyula utca 46
+Budapest 1039 Budapest Gyula utca 52
+Budapest 1039 Budapest Gyula utca 60
+Budapest 1039 Budapest Gyûrû utca 3
+Budapest 1039 Budapest Gyûrû utca 8
+Budapest 1039 Budapest Gyûrû utca 13
+Budapest 1039 Budapest Gyûrû utca 20
+Budapest 1039 Budapest Hadrianus utca 5
+Budapest 1031 Budapest Hajlékos utca 5
+Budapest 1031 Budapest Hajlékos utca 12
+Budapest 1039 Budapest Halastó utca 5
+Budapest 1039 Budapest Halastó utca 12
+Budapest 1039 Budapest Halastó utca 21
+Budapest 1039 Budapest Halastó utca 27
+Budapest 1039 Budapest Halász Gábor utca 7
+Budapest 1039 Budapest Halász Gábor utca 19
+Budapest 1039 Budapest Halász Gábor utca 25
+Budapest 1038 Budapest Hanga köz 2
+Budapest 1033 Budapest Harang utca 3
+Budapest 1033 Budapest Harang utca 8
+Budapest 1033 Budapest Harang utca 13
+Budapest 1033 Budapest Harang utca 21
+Budapest 1037 Budapest Haránt köz 4
+Budapest 1037 Budapest Haránt köz 14
+Budapest 1037 Budapest Haránt köz 19
+Budapest 1037 Budapest Haránt utca 6
+Budapest 1037 Budapest Haránt utca 16478
+Budapest 1037 Budapest Hármashatárhegyi út 3
+Budapest 1033 Budapest Harrer Pál utca 10
+Budapest 1033 Budapest Harrer Pál utca 20
+Budapest 1039 Budapest Hasáb köz 4
+Budapest 1038 Budapest Határ út 4
+Budapest 1038 Budapest Határ út 12
+Budapest 1038 Budapest Határ út 18
+Budapest 1038 Budapest Határ út 23
+Budapest 1038 Budapest Határ út 28
+Budapest 1038 Budapest Határ út 33
+Budapest 1038 Budapest Határ út 41
+Budapest 1038 Budapest Határ út 48
+Budapest 1038 Budapest Határ út 54
+Budapest 1038 Budapest Határ út 63
+Budapest 1038 Budapest Határ út 67
+Budapest 1039 Budapest Hatvany Lajos utca 4
+Budapest 1037 Budapest Hedvig utca 5
+Budapest 1037 Budapest Hedvig utca 11
+Budapest 1038 Budapest Hegesztõ utca 5
+Budapest 1038 Budapest Hegesztõ utca 11
+Budapest 1038 Budapest Hegy utca 1
+Budapest 1038 Budapest Hegyalja utca 5
+Budapest 1038 Budapest Hegyalja utca 12
+Budapest 1038 Budapest Hegyalja utca 17
+Budapest 1038 Budapest Hegyalja utca 21
+Budapest 1038 Budapest Hegycsúcs utca 4
+Budapest 1038 Budapest Hegyláb utca 5
+Budapest 1038 Budapest Hegymászó utca 3
+Budapest 1037 Budapest Hegyoldal utca 3
+Budapest 1037 Budapest Hegyoldal utca 8
+Budapest 1038 Budapest Herhoff György utca 16
+Budapest 1031 Budapest Héthalom utca 6
+Budapest 1033 Budapest Hévizi út 5
+Budapest 1033 Budapest Hévizi út 11
+Budapest 1033 Budapest Hévizi út 16
+Budapest 1033 Budapest Hévizi út 21
+Budapest 1033 Budapest Hévizi út 29
+Budapest 1037 Budapest Hidegkuti Nándor utca 12
+Budapest 1033 Budapest Hídfõ utca 4
+Budapest 1039 Budapest Himzõ utca 3
+Budapest 1039 Budapest Himzõ utca 8
+Budapest 1039 Budapest Hold utca 4
+Budapest 1039 Budapest Hollós Korvin Lajos utca 3
+Budapest 1039 Budapest Hollós Korvin Lajos utca 8
+Budapest 1039 Budapest Hollós Korvin Lajos utca 13
+Budapest 1039 Budapest Hollós Korvin Lajos utca 17
+Budapest 1038 Budapest Honvéd utca 4
+Budapest 1038 Budapest Honvéd utca 9
+Budapest 1038 Budapest Honvéd utca 16
+Budapest 1037 Budapest Hortenzia köz 3
+Budapest 1037 Budapest Hortenzia köz 7
+Budapest 1039 Budapest Hortobágyi utca 4
+Budapest 1039 Budapest Hortobágyi utca 10
+Budapest 1039 Budapest Huba utca 4
+Budapest 1039 Budapest Huba utca 10
+Budapest 1035 Budapest Hunor utca 5
+Budapest 1035 Budapest Hunor utca 13
+Budapest 1035 Budapest Hunor utca 30
+Budapest 1037 Budapest Hunor utca 47
+Budapest 1037 Budapest Hunor utca 54
+Budapest 1037 Budapest Hunor utca 61
+Budapest 1039 Budapest Hunyadi utca 5
+Budapest 1039 Budapest Hunyadi utca 14
+Budapest 1039 Budapest Hunyadi utca 20
+Budapest 1039 Budapest Hunyadi utca 25
+Budapest 1039 Budapest Hunyadi utca 33
+Budapest 1039 Budapest Hunyadi utca 41
+Budapest 1039 Budapest Hunyadi utca 49
+Budapest 1039 Budapest Hunyadi utca 55
+Budapest 1039 Budapest Hunyadi utca 62
+Budapest 1039 Budapest Hunyadi utca 68
+Budapest 1039 Budapest Hunyadi utca 75
+Budapest 1039 Budapest Hunyadi utca 81
+Budapest 1039 Budapest Hunyadi utca 86
+Budapest 1033 Budapest Huszti út 3
+Budapest 1033 Budapest Huszti út 8
+Budapest 1033 Budapest Huszti út 13
+Budapest 1033 Budapest Huszti út 18
+Budapest 1033 Budapest Huszti út 29
+Budapest 1033 Budapest Huszti út 39
+Budapest 1038 Budapest Ibolya utca 4
+Budapest 1038 Budapest Ibolya utca 10
+Budapest 1038 Budapest Ibolya utca 14
+Budapest 1037 Budapest Iglice utca 4
+Budapest 1039 Budapest Igló utca 5
+Budapest 1039 Budapest Igló utca 12
+Budapest 1039 Budapest Igló utca 19
+Budapest 1039 Budapest Igló utca 26
+Budapest 1039 Budapest Igló utca 44
+Budapest 1039 Budapest Igló utca 54
+Budapest 1037 Budapest Ilonka utca 5
+Budapest 1037 Budapest Ilonka utca 10
+Budapest 1031 Budapest Iringó utca 7
+Budapest 1038 Budapest Iskola utca 5
+Budapest 1038 Budapest Iskola utca 11
+Budapest 1039 Budapest Iszap utca 8
+Budapest 1039 Budapest Iszap utca 15
+Budapest 1039 Budapest Iszap utca 21
+Budapest 1039 Budapest Iszap utca 27
+Budapest 1039 Budapest Iszap utca 33
+Budapest 1037 Budapest Jablonka köz 4
+Budapest 1037 Budapest Jablonka lejtõ 5
+Budapest 1037 Budapest Jablonka lejtõ 11
+Budapest 1037 Budapest Jablonka lejtõ 16
+Budapest 1037 Budapest Jablonka lejtõ 20175
+Budapest 1037 Budapest Jablonka út 6
+Budapest 1037 Budapest Jablonka út 12
+Budapest 1037 Budapest Jablonka út 19
+Budapest 1037 Budapest Jablonka út 24
+Budapest 1037 Budapest Jablonka út 29
+Budapest 1037 Budapest Jablonka út 35
+Budapest 1037 Budapest Jablonka út 44
+Budapest 1037 Budapest Jablonka út 49
+Budapest 1037 Budapest Jablonka út 55
+Budapest 1037 Budapest Jablonka út 63
+Budapest 1037 Budapest Jablonka út 69
+Budapest 1037 Budapest Jablonka út 75
+Budapest 1037 Budapest Jablonka út 81
+Budapest 1037 Budapest Jablonka út 86
+Budapest 1037 Budapest Jablonka út 93
+Budapest 1037 Budapest Jablonka út 98
+Budapest 1037 Budapest Jablonka út 106
+Budapest 1037 Budapest Jablonka út 112
+Budapest 1037 Budapest Jablonka út 119
+Budapest 1037 Budapest Jablonka út 130
+Budapest 1037 Budapest Jablonka út 138
+Budapest 1037 Budapest Jeles utca 17
+Budapest 1037 Budapest Jeles utca 29
+Budapest 1037 Budapest Jeles utca 54
+Budapest 1037 Budapest Jeles utca 72
+Budapest 1037 Budapest Jeles utca 104
+Budapest 1037 Budapest Jeles utca 118
+Budapest 1037 Budapest Jeles utca 132
+Budapest 1037 Budapest Jeles utca 160
+Budapest 1037 Budapest Jeles utca 170
+Budapest 1037 Budapest Jeles utca 188
+Budapest 1037 Budapest Jeles utca 22076
+Budapest 1039 Budapest Jendrassik György utca 3
+Budapest 1039 Budapest Jendrassik György utca 7
+Budapest 1039 Budapest Jókai utca 6
+Budapest 1039 Budapest Jókai utca 15
+Budapest 1039 Budapest Jókai utca 20
+Budapest 1039 Budapest Jókai utca 27
+Budapest 1039 Budapest Jókai utca 32
+Budapest 1039 Budapest Jókai utca 43
+Budapest 1039 Budapest Jókai utca 51
+Budapest 1037 Budapest Jolsva utca 5
+Budapest 1039 Budapest Jós utca 3
+Budapest 1039 Budapest Jós utca 8
+Budapest 1039 Budapest Jós utca 13
+Budapest 1039 Budapest Jós utca 16
+Budapest 1037 Budapest Jószerencse út 3
+Budapest 1037 Budapest Jószerencse út 9
+Budapest 1037 Budapest Jószerencse út 15
+Budapest 1037 Budapest Jószerencse út 24
+Budapest 1038 Budapest József hegy 65277
+Budapest 1038 Budapest József utca 4
+Budapest 1038 Budapest József utca 9
+Budapest 1038 Budapest József utca 14
+Budapest 1038 Budapest József utca 17
+Budapest 1039 Budapest József Attila utca 5
+Budapest 1039 Budapest József Attila utca 10
+Budapest 1039 Budapest József Attila utca 16
+Budapest 1039 Budapest József Attila utca 21
+Budapest 1039 Budapest József Attila utca 26
+Budapest 1039 Budapest József Attila utca 32
+Budapest 1039 Budapest József Attila utca 38
+Budapest 1039 Budapest József Attila utca 45
+Budapest 1037 Budapest Judit utca 3
+Budapest 1039 Budapest Juhász Gyula utca 3
+Budapest 1039 Budapest Juhász Gyula utca 8
+Budapest 1039 Budapest Juhász Gyula utca 13
+Budapest 1039 Budapest Juhász Gyula utca 20
+Budapest 1039 Budapest Juhász Gyula utca 30
+Budapest 1039 Budapest Juhász Gyula utca 40
+Budapest 1039 Budapest Juhász Gyula utca 50
+Budapest 1039 Budapest Julika utca 6
+Budapest 1037 Budapest Jutas köz 15
+Budapest 1037 Budapest Jutas utca 7
